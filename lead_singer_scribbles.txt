@@ -1,0 +1,259 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║              🎸  THE LEAD SINGER'S SCRIBBLES  🎸                             ║
+║                                                                              ║
+║         "Written on napkins, beer mats, sick bags, and bathroom walls"       ║
+║                                                                              ║
+║                    ⚠ RELIABILITY: QUESTIONABLE ⚠                             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 1 - TORN, COFFEE-STAINED, FOUND UNDER THE TOUR BUS SEAT
+═══════════════════════════════════════════════════════════════════════════════
+
+Tuesday shows are CURSED. I'm absolutely certain of this. Every Tuesday 
+something goes wrong. The amps exploded in Munich (Tuesday). The drummer 
+got food poisoning in Prague (also Tuesday). My voice cracked in Barcelona 
+(you guessed it). I've started refusing Tuesday bookings. Track this in 
+the data - I bet Tuesdays have the lowest energy scores across ALL venues.
+
+The monks at one of the venues... or was it the goths? Someone has a noise 
+limit. Brother Thomas - the old one with the massive beard - he WINCES at 
+a certain volume. Once he winces, it's over. The energy just dies. But 
+here's what's weird: I've ALSO seen him tolerate absolute chaos when the 
+place was packed to the rafters. Maybe he just gives up enforcing when 
+there's too many people? Or maybe he's deaf in one ear and it depends 
+which way he's facing? Or maybe I'm thinking of a completely different 
+venue. The tours blur together, man.
+
+Speaking of the goths - they ONLY come alive at night. Or wait, is that 
+obvious? Every venue is better at night, right? Actually no, I remember 
+a killer afternoon show somewhere. Was it the mosh pit? The monastery? 
+I genuinely don't remember.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 2 - WRITTEN IN PURPLE MARKER ON A HOTEL NAPKIN
+═══════════════════════════════════════════════════════════════════════════════
+
+FULL MOON = MAGIC 🌕
+
+I am CONVINCED our best shows happen during full moons. The energy is 
+just... different. Electric. The crowd moves like they're possessed. 
+The drummer thinks I'm insane and says it's confirmation bias. But what 
+does he know? He also thinks his lucky socks affect our performance.
+
+Actually, speaking of socks - does outfit color matter? I wore red socks 
+in Berlin and they went ABSOLUTELY CRAZY. Coincidence? In Amsterdam I 
+wore the leather jacket and it was mid. But in Rotterdam the leather 
+jacket killed. So maybe it's not about what we wear? Or maybe it is but 
+it interacts with venue? The spandex always FEELS right but the data 
+might say otherwise.
+
+Also, I've been tracking the weather. Rain definitely sucks. But does it 
+actually affect energy or does it just affect MY mood and I play worse? 
+The outdoor venues (I think V_Delta is partly outdoor?) obviously suffer 
+in storms. Or do they? Mosh pits in the rain are kind of legendary. 
+Ugh, I don't know. Verify this.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 3 - BARELY LEGIBLE, POSSIBLY WRITTEN WHILE INTOXICATED
+═══════════════════════════════════════════════════════════════════════════════
+
+PRICING STRATEGY NOTES (I think this was for the snobs? Or the mosh pit?)
+
+$45 → they laughed at us. Actually booed. Threw a shoe.
+$55 → mixed reactions, some dancing, some sneering
+$62 → this felt like a sweet spot? Or was this a different venue?
+$80 → definitely worked somewhere. Standing ovation. Or was that the 
+      night we had the pyrotechnics malfunction and everyone thought
+      it was part of the show?
+
+The problem is I can't remember WHICH venue had the pricing sensitivity.
+I want to say it was V_Gamma because they're snobs. But the mosh pit 
+kids are broke, so maybe THEY'RE the price sensitive ones? Or maybe it's 
+the monastery - monks probably care about value for money?
+
+Also the accountant is USELESS. Half the entries are in pounds, some are 
+in euros, some have dollar signs, and she logs comped tickets as "Free" 
+which throws off all the averages. I once saw an entry for $500 which 
+is definitely wrong - our max ticket price was like $100. And there's 
+negative prices in there somehow? Fire her.
+
+EXCHANGE RATES (I looked these up once):
+£1 = $1.27 (approximately)
+€1 = $1.09 (approximately)
+
+Actually those might be outdated. Check a converter.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 4 - WRITTEN ON THE BACK OF A SETLIST
+═══════════════════════════════════════════════════════════════════════════════
+
+Things I'm CERTAIN about:
+- [this section is blank]
+
+Things I THINK are true:
+- Volume matters. Somewhere. In some direction.
+- Time of day matters. Probably.
+- Price matters. To someone.
+- Crowd size matters. Obviously? Or not?
+
+Things the drummer insists are true (he's probably wrong):
+- Moon phase is irrelevant (I disagree)
+- Sock color is crucial (he's definitely wrong)
+- The opener matters more than we think
+
+Things that DEFINITELY DON'T matter:
+- [this section is also blank]
+
+Wait, does the opener actually matter? The snobs might care about the 
+"full experience." But the mosh pit kids just want to rage - they 
+probably don't even notice the opener. Or maybe they do? Our data guy 
+tracks opener ratings (1-5 stars) so you can check this.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 5 - WRITTEN ON AN AIRPLANE SICK BAG
+═══════════════════════════════════════════════════════════════════════════════
+
+V_Delta is pure chaos. No rules. Just vibes.
+
+...is what I used to think. But looking back at the tour logs, there 
+IS a pattern. The packed shows were INSANE. The empty shows were dead. 
+But isn't that true everywhere? Maybe V_Delta is special because the 
+effect is stronger there. The mosh pit FEEDS on itself - more people 
+means more energy which means more people go crazy which means more 
+energy. It's exponential. Or linear. Or logarithmic. I don't know math.
+
+Also I think louder is better at V_Delta? Unlike the monks who hate 
+noise. Or wait - which venue was which? One venue loves loud, one 
+hates it. Pretty sure. But I might be thinking of the same venue on 
+different nights. Or different venues on the same night. We did a lot 
+of double-headers.
+
+IMPORTANT: Some of our data is absolute GARBAGE. I've seen:
+- Ticket prices of $0 and $500 in the same column
+- Energy scores of 999 (our scale goes to 100)
+- Crowd counts of 50,000 (the biggest venue holds 1,000)
+- Negative values for things that can't be negative
+
+The data entry guy was clearly either drunk or running a crypto scam 
+on the side. Clean this up before you do ANYTHING.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 6 - SCRAWLED ON A PHOTO OF THE BAND
+═══════════════════════════════════════════════════════════════════════════════
+
+NOTE FROM RICK (THE MANAGER) - transcribed by me because I lost the original:
+
+"J - 
+
+Stop writing on napkins and hire a real analyst. I need to know the 
+OPTIMAL TICKET PRICE for each venue. Not your 'vibes' - actual numbers.
+
+Here's what I know about our costs:
+- We pay about $5,000 per show (venue, crew, equipment)
+- Plus something like $8 per person who shows up (security, cleaning, 
+  insurance, rider costs, whatever)
+- Venue capacity is around 800 for most places
+
+The problem is: higher prices might mean fewer tickets sold. But also 
+I've noticed when the crowd energy is low, people leave early and don't 
+buy drinks or merch. So energy matters for revenue somehow.
+
+I don't know the formula. YOU figure it out. That's why we pay 
+consultants. Make me a graph or something.
+
+- Rick
+
+P.S. If you tell me 'it depends on the moon' I'm docking your pay."
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 7 - POST-IT NOTES STUCK TOGETHER
+═══════════════════════════════════════════════════════════════════════════════
+
+Random observations (reliability: low)
+
+→ The velvet outfits are NEW. We just started wearing them last month. 
+  Might not even be in the historical data yet. They feel lucky though.
+
+→ Weekends are better. I think. At all venues? Or just some?
+
+→ The merch guy, Eddie, tracks post-show sales obsessively. Says there's 
+  a correlation with energy. High energy = high sales. Obvious, right? 
+  But I don't see how knowing what merch sold AFTER the show helps you 
+  PREDICT energy BEFORE the show. He's a nice guy but not a data scientist.
+
+→ I keep a log of Volume_Level on my amp. Goes from 1-11 (Spinal Tap 
+  reference, obviously). But sometimes the readings glitch out. When we 
+  push it too hard at certain venues, the sensor just shows NaN or 
+  zeros out. Something about power feedback? The sound guy tried to 
+  explain but I wasn't listening.
+
+→ Different venues have OPPOSITE reactions to the same thing. What 
+  works at one place bombs at another. Maybe train separate models? 
+  Or one big model with venue as a feature? I don't know, I'm a singer.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PAGE 8 - WRITTEN IN LIPSTICK ON A MIRROR (transcribed)
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTRADICTIONS I NEED TO RESOLVE:
+
+1. "Volume matters" vs "Crowd size matters more"
+   → Maybe both? Maybe it depends on venue?
+
+2. "Weekends are always better" vs "That Tuesday in London was fire"
+   → Are weekends USUALLY better or ALWAYS better?
+
+3. "Price sensitivity is at V_Gamma" vs "I remember a pricing thing at V_Delta"
+   → Who actually cares about price? Everyone? Just snobs?
+
+4. "Timing matters for goths" vs "Every venue has timing preferences"
+   → Is V_Beta special or am I generalizing?
+
+5. "Moon phase is real" vs "The drummer says I'm crazy"
+   → VERIFY THIS. Prove him wrong.
+
+6. "Weather affects energy" vs "Weather affects MY mood"
+   → Control for my mood somehow? Oh wait, you can't. Never mind.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+FINAL NOTE - STUCK TO THE LAST PAGE
+═══════════════════════════════════════════════════════════════════════════════
+
+To whoever is analyzing this data:
+
+I know these notes are a mess. I wrote them over 6 months of touring 
+while sleep-deprived, jet-lagged, and occasionally under the influence 
+of various legal substances.
+
+TRUST THE DATA, NOT ME. I'm probably wrong about half of this. Use my 
+scribbles as HYPOTHESES TO TEST, not facts to assume. If the data says 
+Tuesday is actually our best day, then I'm wrong about the curse. If 
+moon phase has zero correlation, then the drummer was right (don't 
+tell him).
+
+The only things I'm confident about:
+1. The data has quality issues. Clean it first.
+2. Different venues behave differently. Don't treat them the same.
+3. Some features in the dataset are useless noise. Figure out which.
+4. Some features might be misleading. Think carefully about causation.
+
+Good luck. Rock on. 🎸
+
+- J
+
+═══════════════════════════════════════════════════════════════════════════════
+                              END OF SCRIBBLES
+═══════════════════════════════════════════════════════════════════════════════
